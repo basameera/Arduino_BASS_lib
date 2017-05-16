@@ -1,0 +1,23 @@
+###################################
+# Syntax Coloring Map For BASSLib
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+BASSLib	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+getRandomNumber	KEYWORD2
+CompFilter	KEYWORD2
+setCF_CE	KEYWORD2
+getCF_CE	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
